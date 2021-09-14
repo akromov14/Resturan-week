@@ -1,4 +1,4 @@
-import React, {useSelector} from 'react'
+import React from 'react'
 import Logo from '../images/resLogo.png'
 import Image from 'next/image'
 import { HeadWrapper } from '../styleWrapper/HeadWrapper'
@@ -10,11 +10,7 @@ const Headerr = () => {
 
     return (
         <HeadWrapper>
-                <Image
-                    layout="fill"
-                    className="object-center"
-                    src={ Restur }
-                    />
+                <Image layout="fill" className="object-center" src={ Restur } />
                 <div class="row">
                     <div className="col-lg-6 col-md-6 text-2">
                         <div className="text">

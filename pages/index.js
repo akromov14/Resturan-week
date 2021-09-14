@@ -20,13 +20,13 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
         <link rel="preconnect" href="https://fonts.googleapis.com"/>
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
-        <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@600&display=swap" rel="stylesheet"></link>
+        <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@600Display=swap" rel="stylesheet"></link>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-        <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet"></link>
+        <link href="https://fonts.googleapis.com/css2?family=AntonDisplay=swap" rel="stylesheet"></link>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-        <link href="https://fonts.googleapis.com/css2?family=Anton&family=Karantina&display=swap" rel="stylesheet"></link>
+        <link href="https://fonts.googleapis.com/css2?family=AntonFamily=KarantinaDisplay=swap" rel="stylesheet"></link>
       </Head>
       <main >
          <div className="container">

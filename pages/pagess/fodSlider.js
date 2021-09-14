@@ -9,24 +9,23 @@ import Food2 from '../images/cola2.png'
 import Food3 from '../images/sharbat.png'
 import Food4 from '../images/kampot1.png'
 import Food5 from '../images/sharbat4.png'
-import { useState } from "react"
 
 
 const items = [
     <div className="item" data-value="1">
-         <Image src={ Food } alt="Picture of the author" />
+         <Image src={ Food } alt="" />
     </div>,
     <div className="item" data-value="2">
-        <Image src={ Food2 } alt="Picture of the author" />
+        <Image src={ Food2 } alt="" />
     </div>,
     <div className="item" data-value="3">
-        <Image src={ Food3 } alt="Picture of the author" />
+        <Image src={ Food3 } alt="" />
     </div>,
     <div className="item" data-value="4">
-        <Image src={ Food4 } alt="Picture of the author" />
+        <Image src={ Food4 } alt="" />
     </div>,
     <div className="item" data-value="5">
-         <Image src={ Food5 } alt="Picture of the author" />
+         <Image src={ Food5 } alt="" />
     </div>,
 ];
 
